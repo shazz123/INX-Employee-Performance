@@ -5,6 +5,8 @@ Employee Performance Analysis The Data Science Projecr which is given here is an
 
 
 The Goal and insights of the project as follows:
+
+
 	1. Department Wise Performances
 	2. Top 3 Important Factors affecting Employee Performance
 	3. A Trained Model which can predict the employee performance based on factors as inputs.
